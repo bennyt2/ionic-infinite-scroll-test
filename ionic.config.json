@@ -1,0 +1,7 @@
+{
+  "name": "infiniteScrollTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
